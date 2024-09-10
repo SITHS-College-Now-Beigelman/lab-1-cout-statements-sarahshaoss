@@ -19,4 +19,18 @@ int main() //to start the code
     "#       Type “Task Manager” in the Windows Start menu search                    #\n"
     "#                                                                               #\n"  // spaces before hashtags
     "#################################################################################" << endl;
+    /*
+    #################################################################################
+    #                                                                               #
+    # Ways to access the Task Manager on your Windows computer:                     #
+    #                                                                               #
+    #       Press the key combination Ctrl + Shift + Escape                         #
+    #                                                                               #
+    #       Press the key combination Ctrl + Alt + Delete and select “Task Manager” #
+    #                                                                               #
+    #       Type “Task Manager” in the Windows Start menu search                    #
+    #                                                                               #
+    #################################################################################
+    */
 }
+
