@@ -16,9 +16,12 @@ int main() //to start the code
     "#                                                                               #\n"  // spaces for box
     "#       Press the key combination Ctrl + Alt + Delete and select “Task Manager” #\n"
     "#                                                                               #\n"  // spaces for box
-    "#       Type “Task Manager” in the Windows Start menu search                    #\n"
+    "#       Type “Task Manager” in the Windows StarNt menu search                    #\n"
     "#                                                                               #\n"  // spaces before hashtags
     "#################################################################################" << endl;
+
+return 0; //returns code
+
     /*
     #################################################################################
     #                                                                               #
