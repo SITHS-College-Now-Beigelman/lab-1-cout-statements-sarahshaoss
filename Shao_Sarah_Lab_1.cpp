@@ -8,17 +8,17 @@ using namespace std;   // shortcut
 
 int main() //to start the code
 {
-    cout << "#################################################################################\n" 
-    "#                                                                               #\n"  // spaces after the hashtags
-    "# Ways to access the Task Manager on your Windows computer:                     #\n"  // first line
-    "#                                                                               #\n"  // spaces for box
-    "#       Press the key combination Ctrl + Shift + Escape                         #\n"
-    "#                                                                               #\n"  // spaces for box
-    "#       Press the key combination Ctrl + Alt + Delete and select “Task Manager” #\n"
-    "#                                                                               #\n"  // spaces for box
-    "#       Type “Task Manager” in the Windows StarNt menu search                    #\n"
-    "#                                                                               #\n"  // spaces before hashtags
-    "#################################################################################" << endl;
+    cout <<"#################################################################################"<<endl;
+    cout <<"#                                                                               #"<<endl;  // spaces after the hashtags
+    cout <<"# Ways to access the Task Manager on your Windows computer:                     #"<<endl;  // first line
+    cout <<"#                                                                               #"<<endl;  // spaces for box
+    cout <<"#       Press the key combination Ctrl + Shift + Escape                         #"<<endl;
+    cout <<"#                                                                               #"<<endl;  // spaces for box
+    cout <<"#       Press the key combination Ctrl + Alt + Delete and select \"Task Manager\" #"<< endl;
+    cout <<"#                                                                               #"<<endl;  // spaces for box
+    cout <<"#       Type \"Task Manager\" in the Windows Start menu search                    #"<< endl;
+    cout <<"#                                                                               #"<<endl;  // spaces before hashtags
+    cout <<"#################################################################################" << endl;
 
 return 0; //returns code
 
